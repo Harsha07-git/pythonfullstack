@@ -56,10 +56,8 @@ True or False
 
 
 
-Employee_Name="Pramod"
-#Employee Name="Chaitanya"
+Employee_Name="Harsha"
 Age=40
-#@ge=40
 print(Employee_Name)
 print(Age)
 
