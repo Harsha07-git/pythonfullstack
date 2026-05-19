@@ -90,14 +90,3 @@ harsha_details["Name"] = "Vardhan"
 print(harsha_details)
 harsha_details.clear()
 print(harsha_details)
-
-
-
-
-
-
-
-
-
-
-
